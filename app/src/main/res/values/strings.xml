@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Fare Fair</string>
+    <string-array name="country_name">
+        <item>Thikana</item>
+        <item>36 No</item>
+        <item>Moumita</item>
+        <item>D-Link</item>
+        <item>Trans Silva</item>
+        <item>Mirpur Link</item>
+        <item>Bihonga</item>
+        <item>Ashirbad</item>
+        <item>Malancha</item>
+        <item>Bikash Paribohan</item>
+        <item>Bikolpo</item>
+        <item>Safety</item>
+        <item>CityBus</item>
+        <item>MTCL</item>
+        <item>FTCL</item>
+
+        <item>Agradut</item>
+        <item>Airport Bangabandhu Avenue</item>
+        <item>Achim Paribahan</item>
+        <item>Active Paribohan</item>
+        <item>Akik Paribahan</item>
+        <item>Himachal</item>
+        <item>Alif Enterprise</item>
+        <item>Asmani Paribahan</item>
+        <item>BRTC 3</item>
+
+
+        <item>Balaka</item>
+        <item>Basumati Transport</item>
+        <item>Champion</item>
+        <item>ETC Paribahan</item>
+        <item>Doyel Paribahan</item>
+        <item>Falgun</item>
+        <item>Dipon</item>
+        <item>Galaxy Line</item>
+        <item>Grameen</item>
+    </string-array>
+</resources>
